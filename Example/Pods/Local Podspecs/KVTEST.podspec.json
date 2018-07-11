@@ -1,0 +1,22 @@
+{
+  "name": "KVTEST",
+  "version": "0.1.0",
+  "summary": "A short description of KVTEST.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/OuYangJiwen/KVTEST",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "OuYangJiwen": "2122774806@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/OuYangJiwen/KVTEST.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KVTEST/Classes/**/*"
+}

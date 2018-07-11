@@ -1,0 +1,6 @@
+framework module KVTEST {
+  umbrella header "KVTEST-umbrella.h"
+
+  export *
+  module * { export * }
+}
